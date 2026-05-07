@@ -1,0 +1,17 @@
+# Task Manager
+
+## Features iniciales
+- agregar tarea
+- eliminar tarea
+- marcar completada
+
+## Tecnologías
+- HTML
+- CSS
+- JavaScript
+
+## Objetivos de aprendizaje
+- DOM
+- eventos
+- arrays
+- localStorage
